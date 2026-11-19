@@ -1,0 +1,14 @@
+# Python bytecode y caché
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+.env/
+
+# Archivos locales del entorno
+.Python
