@@ -12,3 +12,6 @@ Objetivo educativo: practicar Python y el control de versiones con Git y GitHub,
 ## Ejecución
 
 Ejecuta `python main.py` desde esta carpeta. El ejemplo calcula dos unidades a 450000 cada una, para un total de 900000.
+## Equipo de desarrollo
+
+José Manuel Castro Moya — desarrollo individual
