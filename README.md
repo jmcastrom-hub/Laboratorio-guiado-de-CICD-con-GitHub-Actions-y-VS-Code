@@ -1,24 +1,14 @@
-# Análisis de ventas
+﻿# Laboratorio de Git, GitHub y Python
 
-Proyecto educativo en Python para cargar y analizar datos de ventas, e imprimir un resumen legible desde la terminal.
+Objetivo educativo: practicar Python y el control de versiones con Git y GitHub, usando Visual Studio Code para editar y ejecutar un ejemplo de ventas.
 
-## Archivos principales
+## Archivos
 
-- `main.py`: ejecuta el análisis y muestra los resultados.
-- `ventas.py`: contiene las funciones para cargar y analizar los datos.
+- `main.py`: muestra una venta de dos Laptop.
+- `ventas.py`: calcula el total y valida que el precio no sea negativo.
+- `README.md`: describe el proyecto y su ejecución.
+- `.gitignore`: excluye cachés, entornos virtuales y archivos locales de entorno.
 
 ## Ejecución
 
-Desde esta carpeta, ejecuta el ejemplo integrado:
-
-```bash
-python main.py
-```
-
-El programa imprime ingresos totales, unidades vendidas, promedio de ingresos
-por producto y un resumen de ingresos por categoría. También puede leer un CSV
-con las columnas `producto`, `categoria`, `cantidad` y `precio`:
-
-```bash
-python main.py ventas.csv
-```
+Ejecuta `python main.py` desde esta carpeta. El ejemplo calcula dos unidades a 450000 cada una, para un total de 900000.

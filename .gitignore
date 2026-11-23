@@ -12,3 +12,6 @@ ENV/
 
 # Archivos locales del entorno
 .Python
+.env
+.env.*
+!.env.example
